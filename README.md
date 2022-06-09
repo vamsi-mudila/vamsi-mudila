@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vamsi-mudila
-- 👀 I’m interested in learning new technolgies in the field of Software Engineering and Information Technology.
+- 👀 I’m interested in learning new technolgies in the field of Computer Science.
 - 🌱 I’m currently learning about Data Science. 
 - 💞️ I’m looking to collaborate on learning new technologies.
 - 📫 How to reach me, Mailto - mudilavamsi1003@gmail.com
